@@ -1,2 +1,2 @@
 # Library-management-system
-I doveloped library management system using python
+I developed library management system using python
